@@ -3,6 +3,7 @@ from nltk.stem import PorterStemmer
 from collections import Counter
 from nltk.corpus import stopwords
 
+# WorkingJsons/all_sugs.json
 with open(sys.argv[1]) as sug_f:
 	sugs = json.load(sug_f)
 
