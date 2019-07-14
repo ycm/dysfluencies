@@ -1,5 +1,5 @@
 {
-    "ReadingPerformance:Punctuation": [
+    "Punctuation": [
         "attends to phrasing and punctuation",
         "observes punctuation",
         "generally observes punctuation",
@@ -78,9 +78,23 @@
         "attends to some but not all punctuation",
         "attends to punctuation",
         "attends to punctuation",
-        "observes most punctuation"
+        "observes most punctuation",
+        "demonstrates an awareness of sentences",
+        "student struggles with vowel patterns and some r-controlled vowels",
+        "student inconsistently pausing for commas",
+        "reads through most commas without pausing",
+        "occasionally runs over periods",
+        "student pausing in between sentences inconsistently",
+        "student not pausing between sentences",
+        "some disfluency with stopping at periods",
+        "student not pausing long enough in between sentences",
+        "observes some periods",
+        "note: there is a period missing in the passage after \"on a card\"",
+        "student pausing for new sentences",
+        "student pausing for dialogue",
+        "student pausing when listing words"
     ],
-    "SpecificSkills:Self-correction": [
+    "Self-correction": [
         "self-corrects most errors that impact meaning",
         "little self-correction",
         "self-monitors and self-corrects most miscues",
@@ -169,7 +183,7 @@
         "does not self-correct errors that affect meaning consistently",
         "seems to notice errors but does not self-correct accurately most of the time"
     ],
-    "ReadingPerformance:Rate/Pace": [
+    "Rate-Pace": [
         "adequate pacing that reflects attention to meaning",
         "adequate pace and volume",
         "slows at unfamiliar words",
@@ -214,16 +228,25 @@
         "slow reading",
         "rate and volume inconsistent"
     ],
-    "LanguageSkills:Vocabulary": [
+    "Vocabulary": [
         "good vocabulary knowledge",
         "strong vocabulary",
         "student pronouncing domain-specific vocabulary words correctly 'journalists'",
         "solid vocabulary",
         "strong vocabulary",
         "limited subject matter vocabulary",
-        "solid vocabulary"
+        "solid vocabulary",
+        "good knowledge of vocabulary",
+        "missed two larger vocabulary words (quarreling separately)",
+        "lacks familiarity with irregular past tense verbs (caught)",
+        "skips words and reads only known words",
+        "skips over unknown words",
+        "reads only known words",
+        "mumbles when encountering difficult words",
+        "omits unknown words",
+        "omits unknown words"
     ],
-    "ReadingPerformance:Intonation": [
+    "Intonation": [
         "monotone",
         "flat intonation",
         "student placing emphasis on certain words",
@@ -235,9 +258,10 @@
         "intonation indicates not observing all punctuation",
         "flat intonation",
         "rate and intonation reflect fluency and comprehension",
-        "monotone"
+        "monotone",
+        "good intonation expression"
     ],
-    "ReadingPerformance:Expression/Phrasing": [
+    "Expression-Phrasing": [
         "flat expression",
         "student changing pitch when reading sentences ending in a question mark",
         "good phrasing and expression until final sentence",
@@ -369,9 +393,11 @@
         "adequate but not inspired expression",
         "reads with some expression",
         "some expression",
-        "reads with limited expression"
+        "reads with limited expression",
+        "student changing pitch when reading questions",
+        "some emphasis on the wrong words within a sentence made the sentences sound disjointed"
     ],
-    "SpecificSkills:Decoding": [
+    "Decoding": [
         "evidence of strong decoding skills",
         "student pausing to decode new words",
         "student pausing to correctly sound out new words 'preservation'",
@@ -392,9 +418,11 @@
         "student pausing to decode new words",
         "struggles with some vowel patterns",
         "student struggling to decode new words 'coals'",
-        "attends to initial consonant sounds"
+        "attends to initial consonant sounds",
+        "noticing first letter then guessing",
+        "stops to decodecorrect complex content words"
     ],
-    "SpecificSkills:Accuracy": [
+    "Accuracy": [
         "accurate reader",
         "accurate reader",
         "accurate reader",
@@ -445,11 +473,7 @@
         "reads most words accurately",
         "makes some visual miscues that still preserve meaning"
     ],
-    "ReadingPerformance:Pausing": [
-        "student pausing for new sentences",
-        "student pausing in between words"
-    ],
-    "SpecificSkills:Sight words": [
+    "SightWords": [
         "good sight vocabulary and word analysis",
         "reads most sight words and high-frequency words with accuracy",
         "good command of sight words",
@@ -457,14 +481,33 @@
         "misreads some sight words",
         "good command of sight words",
         "misreads some sight words",
-        "some sight word knowledge"
+        "some sight word knowledge",
+        "has some high frequencysight words",
+        "familiar with sigh words and many high frequency words",
+        "good command of sight words and past tense verbs (-ed endings)",
+        "has some sight words",
+        "has many basic sight words content words (weather california) and patterns",
+        "familiar with some basic sight words",
+        "basic sight words not known",
+        "general sight vocabulary low",
+        "recognizes most sight words and high-frequency words",
+        "over-relying on sight words (of to the)",
+        "reads sight many words and high frequency words",
+        "familiar with many sight words and high-frequency words",
+        "familiar with some basic sight words",
+        "familiar with some beginning and ending sounds some sight words and high frequency words",
+        "familiar with basic sight words",
+        "familiar with many sight words and high-frequency words",
+        "sight word vocabulary  limited",
+        "familiar with many high frequency words and sight words",
+        "solid sight word knowledge"
     ],
-    "LanguageSkills:Syntax": [
+    "Syntax": [
         "stumbled on syntax in final sentence",
         "struggled with syntax in last sentence",
         "does not always monitor syntax"
     ],
-    "ReadingPerformance:Fluency": [
+    "Fluency": [
         "reads smoothly and fluently",
         "excellent fluency and decoding",
         "somewhat disfluent",
@@ -552,33 +595,53 @@
         "lacks expression choppy",
         "reading is very quiet and choppy",
         "reads in a choppy manner",
-        "difficulty decoding unfamiliar multi-syllabic words"
+        "difficulty decoding unfamiliar multi-syllabic words",
+        "student pausing in between words"
     ],
-    "SpecificSkills:Self-monitor meaning": [
-        "cross-checks meaning and syntax",
-        "unable to construct any meaning",
-        "not monitoring for meaning",
-        "does not monitor meaning",
-        "not checking for meaning and syntax",
-        "missing some meaning and syntax cues",
-        "does not monitor for meaning",
-        "not always monitoring for meaning",
-        "not monitoring for meaning",
-        "does not self-monitor or correct miscues",
-        "frequently does not monitor for meaning",
-        "not monitoring for meaning",
-        "does not monitor for meaning",
-        "does not monitor for meaning"
-    ],
-    "CLASSICDescriptors:Substitutions": [
+    "Substitution-Omission-Insertion": [
         "student substituting 'fleas' and 'flies'",
-        "substitutions with no self-correction"
+        "substitutions with no self-correction",
+        "replaced certain sight high-frequency words with others (off of the a)",
+        "substitutes some short words (in on that those)",
+        "student inserting words 'in'",
+        "substituting words 'paths' and 'plans'",
+        "occasional word insertion or substitution (non-meaning changing)",
+        "student substituting words 'best'",
+        "some word substitutions",
+        "student substituting words like 'the' and 'a'",
+        "some word substitution (therewhen)",
+        "one omission of the word then",
+        "student substituting words 'various'",
+        "substitutions omissions",
+        "substitution of sight high-frequency words (hehere)",
+        "inserts additional words into sentences like \"the\"",
+        "substitutes 'have' for 'wave' (meaning changing)",
+        "several insertions of connecting words",
+        "substitutes miss for mrs",
+        "insertions and substitutions of words",
+        "omits and inserts small words",
+        "student substituting words that sound the same 'for' and 'four'",
+        "student omitting words 'the'",
+        "inserts short words (the a)",
+        "student omitting words",
+        "student substituting words 'form' and 'from'",
+        "substitutes and omits words",
+        "student self-monitoring substitutions 'new'",
+        "reversals (farmingframing) and substitutions (newdifferent athe concretecement)",
+        "substituting words 'that' and 'the'",
+        "student inserting words 'the'",
+        "omits and inserts words into sentences",
+        "omits or substitutes initial sounds in words",
+        "omits or substitutes final sounds in words",
+        "substituting words 'on' and 'in'",
+        "substituting beginning sounds 'magnifying'",
+        "substitutes words",
+        "word substitutions and omissions",
+        "skips 'agates and jasper'",
+        "insertions of minor words",
+        "some insertions and omissions that don't affect meaning"
     ],
-    "CLASSICDescriptors:False starts": [
-        "student repeating certain words",
-        "reading initial sounds but not reading through entire word"
-    ],
-    "SpecificSkills:Multisyll. Word attack Analysis": [
+    "MultisyllabicWords": [
         "able to decode multisyllabic words",
         "good word attack on multisyllable words",
         "some evidence of taking apart longer words to solve them (hydroponic)",
@@ -590,14 +653,35 @@
         "takes apart two-syllable words and compound words",
         "difficulty with multisyllabic words",
         "little experience with taking apart two-syllable words",
-        "difficulty with multisyllabic words"
+        "difficulty with multisyllabic words",
+        "able to take apart multisyllabic words on the fly",
+        "able to take apart multisyllabic words in text",
+        "some difficulty with multisyllabic words (ie inventation)",
+        "sometimes unstressed syllables in multisyllable words are slurred (saturday anxiously several)",
+        "evidence of taking apart two-syllable words",
+        "needs further instruction in explicit word attackmultisyllabic word skills",
+        "evidence of taking apart multisyllabic words (semaphores)",
+        "evidence of taking apart multisyllabic words (hydroponic submerged)",
+        "able to take apart compound words (something slackline)",
+        "some evidence of taking apart words (polished activity)",
+        "good strategies for taking apart multisyllabic words",
+        "evidence of taking apart multisyllabic words (hydroponic)",
+        "difficulty taking apart multisyllabic words (specific accomplish photography)",
+        "evidence of taking apart two-syllable and compound words",
+        "some evidence of taking apart words",
+        "demonstrates ability to take apart words on the fly",
+        "not flexible with taking words apart",
+        "difficulty taking apart words",
+        "does not demonstrate flexibility with taking apart words"
     ],
-    "SpecificSkills:Background Knowledge": [
+    "BackgroundKnowledge": [
         "uses background knowledge to maintain meaning",
         "little background knowledge about the topic",
-        "little background knowledge about topic"
+        "little background knowledge about topic",
+        "little background knowledge",
+        "limited subject knowledge"
     ],
-    "CLASSICDescriptors:Miscues": [
+    "Miscues": [
         "makes miscues on simple words",
         "starts reading stronger then slows due to miscuing",
         "miscues are meaning changing",
@@ -609,23 +693,12 @@
         "miscues interfere with meaning",
         "miscues interfere with meaning"
     ],
-    "SpecificSkills:Self-monitor Form": [
-        "cross-checks efficiently"
-    ],
-    "CLASSICDescriptors:Omissions ": [
-        "word substitutions and omissions",
-        "omits unknown words",
-        "omits unknown words",
-        "omits some endings of words",
-        "omits endings of words",
-        "omits endings of words"
-    ],
-    "CLASSICDescriptors:Stamina": [
+    "Stamina": [
         "strong start to the passage but loses stamina",
         "loses momentum toward the end",
         "little stamina"
     ],
-    "SpecificSkills:Word by word reading": [
+    "WordByWordReading": [
         "reads word-by-word",
         "reads word-by-word and in short phrases",
         "reads word-by-word",
@@ -653,27 +726,121 @@
         "reads word-by-word",
         "reads word-by-word"
     ],
-    "SpecificSkills:TracksContext/meaning": [
-        "errors probably affect comprehension"
+    "TracksContext-Meaning": [
+        "errors probably affect comprehension",
+        "noticing names of people",
+        "reads a bit too rapidly at points which may (or may not) indicate that student is not comprehending",
+        "able to read past a word and then come back to it to solve it with context",
+        "insertions \"such\" \"on\" don't interfere with meaning",
+        "makes a few errors that don't impact meaning",
+        "mostly monitors for meaning",
+        "monitors for meaning",
+        "occasionally insertions omissions and substitutions interfere with meaning (he was looking about he had rescued)",
+        "monitors for meaning",
+        "occasional substitutions (leads plans) and insertions (on being) that don't interfere with meaning",
+        "does not always cross-check meaning syntax and visual information",
+        "substitutions maintain meaning and syntax",
+        "self-monitors for meaning",
+        "meaning breaking down",
+        "loses meaning",
+        "not reading for meaning",
+        "some evidence of monitoring for meaning",
+        "insertion (in the daylight) not meaning changing",
+        "rereads to maintain meaning",
+        "reads unknown words quickly reversing or omitting syllables (semaphores divided various) and does not monitor for meaning",
+        "meaning not intact at beginning",
+        "misses some visual and meaning cues",
+        "appears to monitor for meaning",
+        "rereads to maintain meaning",
+        "generally monitors for meaning",
+        "inserts some short high frequency words that don't interfere with meaning (into a pot)",
+        "some substitutions change meaning (one of the seventh day teacher's name is)",
+        "occasional insertionomission of small words (the can) does not interfere with meaning",
+        "over-relying on visual cues ignoring some errors that impact meaning",
+        "leaves out many words making it difficult to build meaning",
+        "does not cross-check meaning syntax and visual information",
+        "some insertions omissions and substitutions interfere with meaning (it was the lower left corner blending in the blossoms)",
+        "unclear if meaning is being monitored",
+        "attends to punctuation and its meaning",
+        "reads a bit too rapidly at times which may indicate a breakdown of comprehension",
+        "occasional omissions and reversal that don't interfere with meaning",
+        "sometimes difficult to understand due to mumbling through the difficult words",
+        "some word substitutions that interfere with meaning",
+        "rereads to maintain meaning",
+        "appears to be on level check on comprehension",
+        "appears to read through text without monitoring for meaning",
+        "does not consistently monitor meaning",
+        "difficult to understand mumbles",
+        "rereads to maintain meaning",
+        "good expression - reflects meaning",
+        "substitutions maintain meaning and syntax",
+        "uses meaning to get to new words (coals claws)",
+        "substitutions sometimes interfere with meaning (theshe)",
+        "reads too quickly in order to maintain meaning",
+        "reads choppily and without attention to meaning",
+        "reads through several errors that impact meaning",
+        "attending to visual cues but ignoring some meaning and syntactical cues",
+        "meaning breaking down",
+        "starts out strong with opening sentence then reads without building meaning",
+        "rereads to maintain meaning",
+        "evidence of cross-checking meaning and visual information (started flattered)",
+        "appears to monitor for meaning",
+        "cross-checks meaning syntax and visual information",
+        "occasional omissions insertions and substitutions (the a her as) don't interfere with meaning",
+        "word substitution doesn't interfere with meaning",
+        "substitutions maintain meaning",
+        "seems to monitor for meaning",
+        "monitors meaning",
+        "rereads to maintain meaning",
+        "self-monitoring for meaning not apparent",
+        "unable to build any meaning",
+        "does not cross-check meaning visual and syntactical information",
+        "monitors for meaning",
+        "omits some small words without changing meaning",
+        "guesses at unknown words and does not monitor for meaning",
+        "rereads to maintain meaning",
+        "not attending to meaning visual and syntactical cues",
+        "word omissions interfere with meaning",
+        "cross-checks meaning and syntax",
+        "unable to construct any meaning",
+        "not monitoring for meaning",
+        "does not monitor meaning",
+        "not checking for meaning and syntax",
+        "missing some meaning and syntax cues",
+        "does not monitor for meaning",
+        "not always monitoring for meaning",
+        "not monitoring for meaning",
+        "does not self-monitor or correct miscues",
+        "frequently does not monitor for meaning",
+        "not monitoring for meaning",
+        "does not monitor for meaning",
+        "does not monitor for meaning",
+        "student rereading portions of the text for clarification",
+        "good self-monitoring skills",
+        "good self-monitoring",
+        "cross-checks efficiently",
+        "reads what he thinks would make sense in the sentence but not what is on the page"
     ],
-    "CLASSICDescriptors:Guesses at words": [
-        "uses initial letters to guess at unknown words"
+    "Guessing": [
+        "uses initial letters to guess at unknown words",
+        "guesses at words",
+        "guessing at words based on initial letters of words"
     ],
-    "CLASSICDescriptors:Insertions": [
-        "insertions of minor words",
-        "some insertions and omissions that don't affect meaning"
-    ],
-    "LanguageSkills:Morphology (affixes, word analysis)": [
+    "Morphology": [
         "some difficulty with prefixes and suffixes",
         "controls possessives",
         "difficulty with suffixes (-ly)",
-        "demonstrates knowledge of possessives and contractions"
+        "demonstrates knowledge of possessives and contractions",
+        "difficulty with past tense verbs (-ed endings)",
+        "successfully reads past tense verbs (-ed endings)",
+        "student removing ending of words '-ed'"
     ],
-    "CLASSICDescriptors:Visual Cues": [
+    "VisualCues": [
         "does not carefully attend to visual information",
-        "using meaning as a cue but not strongly attending to visual cues"
+        "using meaning as a cue but not strongly attending to visual cues",
+        "at times does not fully attend to visual information"
     ],
-    "LanguageSkills:Pronunciation": [
+    "Pronunciation": [
         "r-less in consonant blends and post-vocalically",
         "seems to self-monitor for pronunciation and meaning",
         "limited word attack skills",
@@ -686,6 +853,152 @@
         "evidence of some word attack skills being used to solve multi-syllabic words",
         "difficulty pronouncing context-specific vocabulary words",
         "some evidence of word attack skills",
-        "does not fully pronounce words may indicate speech impediment"
+        "does not fully pronounce words may indicate speech impediment",
+        "good control of r-controlled vowels",
+        "some evidence of control of initial consonant blends"
+    ],
+    "WordEndings": [
+        "drops endings (frame instead of framing)",
+        "doesn't always attend to word endings",
+        "does not attend to word endings",
+        "student repeating words when first forgetting to include ending",
+        "difficulty with some endings suffixes of words",
+        "does not always attend to word endings",
+        "not attending to some endings and medial vowels",
+        "not attending to endings of words",
+        "leaves off -er ending on angler",
+        "student adding -s to word that isn't plural 'lead'",
+        "attends to the beginnings of words",
+        "skips 'activity' and instead says 'active'",
+        "student reads beginnings but is not reading through entire words",
+        "attending to beginning sounds but not the entire word when encountering a tricky word",
+        "starts strong and then fades at end",
+        "left off the -y in photography",
+        "attends to initial sound",
+        "has difficulty reading possessives",
+        "omits -es and -ing endings",
+        "omitted -ed endings",
+        "omits -nd ending",
+        "omits ending -s in mrs and comes",
+        "omits some endings of words",
+        "omits endings of words",
+        "omits endings of words",
+        "reading initial sounds but not reading through entire word"
+    ],
+    "Phonics": [
+        "difficulty with initial sounds",
+        "confuses short vowels",
+        "difficulty with long vowel sounds",
+        "difficulty with long vowel sounds and vowel teams",
+        "trouble with long vowel sounds (cement plywood recreation)",
+        "struggles with some vowel patterns (ex: through sparkling)",
+        "some vowel confusion with short long vowel sounds",
+        "provide instruction in medial vowel patterns r-controlled vowel",
+        "consonant and vowel sounds were often incorrect",
+        "elides unstressed syllable (can provide fish)",
+        "misses ea sound",
+        "difficulty with the phoneme ph-"
+    ],
+    "Repetition": [
+        "student repeating certain words at the end of a sentence",
+        "student repeating words as they read",
+        "some words repeated",
+        "student repeating words 'sharp'",
+        "student repeating certain words",
+        "reread part of a sentence"
+    ],
+    "MISC-LackOfData": [
+        "poor signal",
+        "reading unintelligible",
+        "reading is unintelligible",
+        "limited data--started late and stopped in the middle of the passage",
+        "less than half text read",
+        "very noisy recording quiet reader",
+        "does not read whole passage aloud",
+        "limited data as student did not read much out loud stopping when encountering tricky words and scanning ahead in the text for something familiar"
+    ],
+    "MISC-Qualitative": [
+        "good reader in general",
+        "strong reader",
+        "careful reader",
+        "good reader",
+        "student reading carefully",
+        "lacks confidence as a reader"
+    ],
+    "MISC-Difficulty": [
+        "laborious",
+        "seems to be on right level",
+        "passage seems to be at independent reading level",
+        "passage seems slightly easy for this student may need a higher level text",
+        "text seems below level for reader",
+        "text appears somewhat too easy for this student",
+        "text seems easy",
+        "text too difficult for this student",
+        "passage too hard",
+        "text is too difficult",
+        "text is too challenging for reader",
+        "passage too difficult",
+        "text is too difficult",
+        "difficult text for reader",
+        "text is challenging",
+        "difficult text for reader",
+        "passage too hard",
+        "text appears too easy for this reader",
+        "text very difficult for this student so comprehension may not be there",
+        "text level likely too difficult for student",
+        "passage is a level or two high for student",
+        "passage is too difficult for student",
+        "difficult text",
+        "text too difficult for student",
+        "passage too hard",
+        "text too difficult",
+        "passage is at student's instructional level",
+        "text is slightly difficult",
+        "text is too challenging for student",
+        "passage too difficult",
+        "difficult text",
+        "text hard for student focused primarily on decoding",
+        "passage too hard",
+        "text is too difficult",
+        "text is challenging for reader",
+        "text level seems appropriate",
+        "passage is too difficult for student",
+        "text is too difficult",
+        "passage is too difficult"
+    ],
+    "MISC-Volume": [
+        "volume too low",
+        "reads in a very quiet voice",
+        "quiet voice",
+        "student reading very softly",
+        "reads quietly"
+    ],
+    "Other": [
+        "difficulty with the prefix un- in unusual",
+        "r-less",
+        "has many beginning and ending sounds",
+        "reading letter names instead of letter sounds",
+        "reads in syllables not blended into words",
+        "knows a few high frequency words (of the)",
+        "second language learner",
+        "reads known words rapidly",
+        "occasional dysfluency apparent in some words  (might time find rarer volcanic)",
+        "difficulty with tracking",
+        "lost place in text",
+        "student placing emphasis on signal words",
+        "evidence of past tense verb knowledge",
+        "hoarse voice quality",
+        "seems good at blending after sounding out words",
+        "reads quite rapidly",
+        "difficulty articulating r sound",
+        "evidence of searching behaviors",
+        "past tense errors",
+        "seems to potentially be using a picture to determine some words but unclear",
+        "subvocalizes during word solving",
+        "confusion with pronouns",
+        "student \"fakes\" several sentences and skips to end",
+        "finds and reads a few familiar words without successfully articulating any sentences",
+        "attempts few words",
+        "does not always cross-check multiple sources of information"
     ]
 }
