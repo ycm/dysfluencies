@@ -34,7 +34,6 @@ unmatched = [
 	if set(sug) & keywords == set()
 ]
 
-
 with open(sys.argv[3]) as sw_f:
 	if stem:
 		_sw = set([
@@ -48,7 +47,6 @@ with open(sys.argv[3]) as sw_f:
 
 sw = set(stopwords.words('english')) | _sw
 
-
 cnt = Counter()
 
 for sug in unmatched:
@@ -58,6 +56,5 @@ for sug in unmatched:
 
 for w in list(cnt.most_common())[::-1]:
 	print(w[0] + '\t' + str(w[1]))
-
 
 print('unmatched:', len(unmatched))
