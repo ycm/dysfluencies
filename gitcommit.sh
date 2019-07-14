@@ -2,6 +2,7 @@
 
 for arg in "$@" 
 do
+  echo "adding: $arg"
   git add $arg
 done
 printf "commit message: "
