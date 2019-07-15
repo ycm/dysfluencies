@@ -3,6 +3,8 @@ from nltk.stem import PorterStemmer
 from collections import Counter
 from nltk.corpus import stopwords
 
+# python PyScripts/sugs_to_clusters.py WorkingJsons/all_sugs.json WorkingJsons/20190714_keywords_for_sugs.json WorkingJsons/20190714_stopwords_for_sugs.json
+
 ps = PorterStemmer()
 
 # WorkingJsons/all_sugs.json
@@ -34,6 +36,7 @@ unmatched = [
 	if set(sug) & keywords == set()
 ]
 
+# WorkingJsons/20190714_stopwords_for_sugs.json
 with open(sys.argv[3]) as sw_f:
 	if stem:
 		_sw = set([
