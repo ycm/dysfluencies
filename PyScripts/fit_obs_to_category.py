@@ -80,7 +80,7 @@ for line in uncategorized:
 
 print('Not caught:', len(not_caught))
 
-categories_to_original_obs['uncategorized'] = [stemmed_obs_to_original[nc] for nc in not_caught]
+categories_to_original_obs['uncategorized'] = list(set([stemmed_obs_to_original[nc] for nc in not_caught]))
 
 for nc in not_caught:
 	# print(nc)
@@ -92,5 +92,5 @@ for cat, obs_lst in categories_to_original_obs.items():
 with open('../Resources/stemmed_obs_to_original.json', 'w') as f:
 	json.dump(stemmed_obs_to_original, f, indent=2)
 
-with open('../Resources/categories_to_original_obs', 'w') as f:
+with open('../Resources/categories_to_original_obs.json', 'w') as f:
 	json.dump(categories_to_original_obs, f, indent=2)
