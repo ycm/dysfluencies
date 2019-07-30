@@ -366,11 +366,13 @@
   ],
   "does not self-correct miscues": [
     "NEGATIVE",
-    "SELF_CORRECTION"
+    "SELF_CORRECTION",
+    "ACCURACY"
   ],
   "does not self-monitor or correct miscues": [
     "NEGATIVE",
-    "SELF_CORRECTION"
+    "SELF_CORRECTION",
+    "ACCURACY"
   ],
   "does not stop to examine and work through many tricky words seems to lack decoding skills": [
     "NEGATIVE",
@@ -398,11 +400,13 @@
   ],
   "doesn't self-correct miscues": [
     "NEGATIVE",
-    "SELF_CORRECTION"
+    "SELF_CORRECTION",
+    "ACCURACY"
   ],
   "doesn't self-corrects most miscues": [
     "NEGATIVE",
-    "SELF_CORRECTION"
+    "SELF_CORRECTION",
+    "ACCURACY"
   ],
   "drops endings (frame instead of framing)": [
     "NEGATIVE",
@@ -1421,7 +1425,7 @@
   ],
   "some miscues self-corrected": [
     "NEGATIVE",
-    "ACCURACY"
+    "SELF_CORRECTION"
   ],
   "some miscues which affect meaning": [
     "NEGATIVE",
@@ -1450,7 +1454,8 @@
   ],
   "some substitutions and miscues interfere with meaning": [
     "NEGATIVE",
-    "SUBSTITUTION_REVERSAL"
+    "SUBSTITUTION_REVERSAL",
+    "ACCURACY"
   ],
   "some substitutions change meaning (one of the seventh day teacher's name is)": [
     "NEGATIVE",
@@ -1531,7 +1536,8 @@
   ],
   "starts reading stronger then slows due to miscuing": [
     "NEGATIVE",
-    "RATE"
+    "RATE",
+    "ACCURACY"
   ],
   "starts strong and then fades at end": [
     "NEGATIVE",
