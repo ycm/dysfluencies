@@ -57,7 +57,7 @@
   "occasional word insertion or substitution (non-meaning changing)": [
     "NEUTRAL",
     "OMISSION_INSERTION",
-    "SUBSTITUTION"
+    "SUBSTITUTION_REVERSAL"
   ],
   "some insertions and omissions that don't affect meaning": [
     "NEUTRAL",
