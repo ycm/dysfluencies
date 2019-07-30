@@ -1,0 +1,2693 @@
+{
+  "able to decode multisyllabic words": [
+    "POSITIVE",
+    "PHONICS",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "insertion (in the daylight) not meaning changing": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "insertions such on don't interfere with meaning": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "inserts additional words into sentences like the": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "inserts short words (the a)": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "makes a few errors that don't impact meaning": [
+    "NEUTRAL",
+    "MONITORING_FOR_MEANING"
+  ],
+  "makes some visual miscues that still preserve meaning": [
+    "NEUTRAL",
+    "ACCURACY"
+  ],
+  "miscues maintain meaning": [
+    "NEUTRAL",
+    "ACCURACY"
+  ],
+  "miscues maintain meaning for the most part": [
+    "NEUTRAL",
+    "ACCURACY"
+  ],
+  "miscues maintain meaning of passage": [
+    "NEUTRAL",
+    "ACCURACY"
+  ],
+  "occasional insertion omission of small words (the can) does not interfere with meaning": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "occasional omissions insertions and substitutions (the a her as) don't interfere with meaning": [
+    "NEUTRAL",
+    "OMISSION_INSERTION",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "occasional substitutions (leads plans) and insertions (on being) that don't interfere with meaning": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "occasional word insertion or substitution (non-meaning changing)": [
+    "NEUTRAL",
+    "OMISSION_INSERTION",
+    "SUBSTITUTION"
+  ],
+  "some insertions and omissions that don't affect meaning": [
+    "NEUTRAL",
+    "OMISSION_INSERTION"
+  ],
+  "substitutions maintain meaning": [
+    "NEUTRAL",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutions maintain meaning and syntax": [
+    "NEUTRAL",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "word substitution doesn't interfere with meaning": [
+    "NEUTRAL",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "reads what he thinks would make sense in the sentence but not what is on the page": [
+    "NEUTRAL",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "very expressive reader maybe too expressive": [
+    "NEUTRAL",
+    "EXPRESSION"
+  ],
+  "attempts few words": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "attempts initial sounds but is not able to get medial sounds": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "attending to beginning sounds but not the entire word when encountering a tricky word": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "attending to visual cues but ignoring some meaning and syntactical cues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "attends to some but not all punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "attends to some punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "attends to some punctuation but intonation is off especially on endings": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "attends to some punctuation but not all": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "attends to some punctuation but not all reading through some sentence endings": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "attends to the beginnings of words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "basic sight words not known": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "challenging vocabulary (unusual curious lighted) interferes with phrasing": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "choppy fluency": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "choppy fluency with some repeating of words": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "choppy reading with short phrases and word-by-word": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "confuses short vowels": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "confusion with pronouns": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "consonant and vowel sounds were often incorrect": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "controls possessives": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "decodes words in this text very well": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "decoding ability slows reading": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "decoding interferes with meaning (inside through when)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "decoding interferes with meaning (quarreling bundle efforts none)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "decoding too slow and laborious for the student to have any comprehension of the text": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "difficult vocabulary (quarreling separately) interferes with phrasing": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "difficult vocabulary and word insertions ('the') occasionally with phrasing": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "difficult vocabulary interferes with phrasing": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "difficult vocabulary interferes with phrasing and meaning": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "difficulty decoding multisyllabic words": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "difficulty decoding unfamiliar multisyllabic words": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "difficulty pronouncing context-specific vocabulary words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "difficulty solving multisyllabic words with emphasis on correct syllable": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "difficulty taking apart multisyllabic words (specific accomplish photography)": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "difficulty with long vowel sounds": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "difficulty with long vowel sounds and vowel teams": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "difficulty with multisyllabic words": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "difficulty with past tense verbs (-ed endings)": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "difficulty with some endings suffixes of words": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "difficulty with suffixes (-ly)": [
+    "NEGATIVE",
+    "MORPHOLOGY"
+  ],
+  "difficulty with the phoneme ph-": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "difficulty with the prefix un- in unusual": [
+    "NEGATIVE",
+    "MORPHOLOGY"
+  ],
+  "does not adhere to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not adhere to punctuation always": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not always attend to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not always attend to word endings": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "does not always cross-check meaning syntax and visual information": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not always monitor syntax": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not always read punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not attend to all punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not attend to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not attend to punctuation consistently": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not attend to word endings": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "does not consistently attend to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not consistently monitor meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not consistently read punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not consistently reread to self-correct": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "does not consistently stop to correct errors": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "does not cross-check meaning syntax and visual information": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not cross-check meaning visual and syntactical information": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not demonstrate flexibility with taking apart words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "does not enunciate": [
+    "NEGATIVE",
+    "PRONUNCIATION"
+  ],
+  "does not fully pronounce words may indicate speech impediment": [
+    "NEGATIVE",
+    "PRONUNCIATION"
+  ],
+  "does not monitor for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not monitor meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not observe all punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not observe punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not read punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not read punctuation with appropriate intonation (pauses without a period)": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "does not self-correct all significant errors": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "does not self-correct errors that affect meaning consistently": [
+    "NEGATIVE",
+    "SELF_CORRECTION",
+    "MONITORING_FOR_MEANING"
+  ],
+  "does not self-correct miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "does not self-monitor or correct miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "does not stop to examine and work through many tricky words seems to lack decoding skills": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "does not stop to self-correct errors": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "doesn't always adhere to punctuation when rushing": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "doesn't always attend to word endings": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "doesn't consistently read punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "doesn't observes punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "doesn't self-correct miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "doesn't self-corrects most miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "drops endings (frame instead of framing)": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "expression is fairly monotone": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "expression is somewhat weak": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "fairly quick reading of text with some substitution errors": [
+    "NEGATIVE",
+    "RATE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "faster rate might contribute to miscuing on shorter words": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "faster reading rate": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "faster reading seems to cause frequent miscuing with some self-correction": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "few uncorrected miscues (reversal (he maybe) content)": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "few visual miscues that maintain meaning for the most part": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "flat expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "flat intonation": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "fluency decent but needs some practice": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "fluency is choppy and may affect comprehension": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "fluency is word-by-word": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "fluency phrasing slow and choppy": [
+    "NEGATIVE",
+    "FLUENCY",
+    "PHRASING",
+    "RATE"
+  ],
+  "fluency was a bit below average": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "focused on decoding": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "frequently does not monitor for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "general sight vocabulary low": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "generally accurate reader but miscues interfere with meaning": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "little experience with taking apart two-syllable words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "little expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "little self-correction": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "loses meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "loses momentum toward the end": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "makes miscues on simple words": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "makes some errors that impact meaning self-corrects some not all": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "makes some self-corrections": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "meaning breaking down": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "meaning not intact at beginning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues a result of reading too fast and not attending to all visual information": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "miscues affect meaning": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues are meaning changing": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues do not always maintain meaning": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "miscues do not maintain meaning": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues frequently interfere with meaning": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "miscues interfere with meaning": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues interfere with meaning (clifton circus was) and not self-corrected": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "miscues on multisyllabic words": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "mispronounces short e": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "misreads sight words": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "misreads some punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "misreads some sight words": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "misreads wh- and th-": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "missed two larger vocabulary words (quarreling separately)": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "misses ea sound": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "misses some connecting words due to rushing": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "misses some visual and meaning cues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "missing middles and endings at time": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "missing some meaning and syntax cues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "monotone": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "most miscues not corrected and interfere with meaning": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "mostly monitors for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "needs further instruction in explicit word attack multisyllabic word skills": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "no adherence to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "no self-correction": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "not able to decode the majority of the words in the passage": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "not all miscues corrected and interfere with meaning (invention)": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "not all punctuation observed": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "not always monitoring for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "not attending to endings of words": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "not attending to meaning visual and syntactical cues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "not attending to some endings and medial vowels": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "not checking for meaning and syntax": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "not flexible with taking words apart": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "not monitoring for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "not observing punctuation appropriately seems to confuse intonation patterns of commas and periods at times": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "not reading for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "not self-correcting": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "not self-correcting some words that impact meaning": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "not stopping to self-correct when meaning breaks down": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "noticing first letter then guessing": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "observes some periods": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "observes some punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "occasional dysfluency apparent in some words (might time find rarer volcanic)": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "occasional omissions and reversal that don't interfere with meaning": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "occasionally insertions omissions and substitutions interfere with meaning (he was looking about he had rescued)": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "occasionally runs over periods": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "omits -es and -ing endings": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits -nd ending": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "omits and inserts small words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits and inserts words into sentences": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits ending -s in mrs and comes": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "omits endings of words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits or substitutes final sounds in words": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "omits or substitutes initial sounds in words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits some endings of words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits some small words without changing meaning": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits some words when rushing to read": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omits unknown words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "omitted -ed endings": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "one miscue not self-corrected": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "one omission of the word then": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "only occasionally self-corrects miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "over-relying on sight words (of to the)": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "over-relying on visual cues ignoring some errors that impact meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "past tense errors": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "pauses within noun phrase (at the camera <pause> display": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "pausing to decode new words": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "phrasing doesn't always correspond to meaningful units": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "phrasing is choppy": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "phrasing is incorrect": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "phrasing not always done in meaning units (misparses)": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "phrasing uneven at times when unable to figure out syntax": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "poor phrasing at times": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "pronounces article 'a' with long a sound (stressed)": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "provide instruction in medial vowel patterns r-controlled vowel": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "quickly and accurately reads multisyllabic multi-disciplinary words": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "r-less in consonant blends and post-vocalically": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "rate and intonation reflect fluency and comprehension": [
+    "NEGATIVE",
+    "FLUENCY",
+    "RATE"
+  ],
+  "rate and volume inconsistent": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "rate inconsistent": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "readers most words accurately": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "reading initial sounds but not reading through entire word": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "reading is flat and monotone toward the end": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reading is slow quiet and choppy": [
+    "NEGATIVE",
+    "FLUENCY",
+    "RATE"
+  ],
+  "reading is somewhat choppy": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "reading is very quiet and choppy": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "reading letter names instead of letter sounds": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "reading very slowly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads a bit too rapidly at points which may (or may not) indicate that student is not comprehending": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads a bit too rapidly at times which may indicate a breakdown of comprehension": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads accurately with few miscues": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "reads at a quick pace": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads at an adequate rate": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads at good rate": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads carefully and with attention to punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "reads choppily and without attention to meaning": [
+    "NEGATIVE",
+    "FLUENCY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "reads dialogue with expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads expressively but quietly": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads fluently and with expression": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "reads generally in long phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in a choppy manner": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "reads in a quiet voice with little expression and intonation": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads in long phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in long phrases uneven": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in long phrases with some expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in longer phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in meaningful phrases with good expression but loses stamina toward end of passage": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short and long phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short and long phrases with some expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short phrases and word-by-word": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "reads in short phrases and word-by-word with some expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short phrases with some long phrasing and occasional word-by-word": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in short phrases with some word-by-word reading when decoding unfamiliar words": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in syllables not blended into words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "reads in three-four word phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in two and three-word phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in two or three word phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in two or three-word phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in two-word phrases or word-by-word": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads in very short phrases and word-by-word with some expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads known words rapidly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads maily with short phrases occasional longer phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads mostly in long phrases with expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads mostly in short phrases with word-by-word and occasional long phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads mostly in shorter phrases with some long phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads mostly word-by-word": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads only known words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "reads quickly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads quickly in long phrases with some expression": [
+    "NEGATIVE",
+    "EXPRESSION",
+    "PHRASING",
+    "RATE"
+  ],
+  "reads quickly with few miscues": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads quite rapidly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads sight many words and high frequency words": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "reads slowly and word-by-word": [
+    "NEGATIVE",
+    "PHRASING",
+    "RATE"
+  ],
+  "reads slowly mostly with long phrases some uneven phrasing at difficult words": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads slowly word-by-word some two-word phrases": [
+    "NEGATIVE",
+    "PHRASING",
+    "RATE"
+  ],
+  "reads smoothly and fluently": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "reads through most commas without pausing": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "reads through several errors that impact meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "reads too fast": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads too fast for comprehension to be intact": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads too quickly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads too quickly in order to maintain meaning": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "reads unevenly in long and short phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads unevenly in long phrases with expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads unknown words quickly reversing or omitting syllables (semaphores divided various) and does not monitor for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "reads very fast and occasionally omits words (it might) substitutes words (something) or mixes up initial consonants (news last night)": [
+    "NEGATIVE",
+    "OMISSION_INSERTION",
+    "RATE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "reads with a monotone voice": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with fairly good expression however phrasing and intonation don't always correspond to meaningful units": [
+    "NEGATIVE",
+    "EXPRESSION",
+    "PHRASING"
+  ],
+  "reads with limited expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with little expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with little expression and intonation": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with long and short phrases some word-by-word": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads with some expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with some expression long phrases": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with some expression primary in short phrases with some word-by-word": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "reads with some long phrases mostly short phrasing with expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "reads word-by-word": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads word-by-word and in short phrases": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads word-by-word most of the time": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads word-by-word mostly monotone": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads word-by-word occasional two-word phrases": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "reads word-by-word only known words": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "repeated phrases and words when unsure": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "replaced certain sight high-frequency words with others (off of the a)": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "rereads and self-corrects some errors": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "rereads to maintain meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "rereads to maintain meaning and to self-correct": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "reversals (farming framing) and substitutions (new different a the concrete cement)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "runs over punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "rushed at the end of the passage to finish the sentence": [
+    "NEGATIVE",
+    "PHRASING",
+    "RATE"
+  ],
+  "rushed through the reading": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "seems good at blending after sounding out words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "seems to be be focused on decoding rather than meaning": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "seems to lack word attack skills": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "seems to monitor for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "seems to notice errors but does not self-correct accurately most of the time": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "seems to self-monitor for pronunciation and meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "self-correct a few miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects at times": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects small words in phrases": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects some errors but not consistent": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects some miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects some miscues to maintain meaning": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-monitoring for meaning not apparent": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "self-monitors for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "self-monitors for meaning and self-corrects some miscues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "several insertions of connecting words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "several words mispronounced and therefore lost the meaning of the text": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "shaky fluency": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "sight word vocabulary limited": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "skips 'activity' and instead says 'active'": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "skips 'agates and jasper'": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "skips over unknown words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "skips words and reads only known words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "slow and laborious reading - lacks expression": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "slow reading": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "slows at unfamiliar words": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "some appropriate expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "some awkward phrasing": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some difficult vocabulary impacts phrasing": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "some difficulty with multisyllabic words (ie inventation)": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "some difficulty with prefixes and suffixes": [
+    "NEGATIVE",
+    "MORPHOLOGY"
+  ],
+  "some disfluency with stopping at periods": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "some evidence of control of initial consonant blends": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "some evidence of monitoring for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "some evidence of recognition of meaning to aid in decoding an unknown word (brought)": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "some evidence of self-correction": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "some evidence of taking apart longer words to solve them (hydroponic)": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "some evidence of taking apart words": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "some evidence of word attack skills": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "some expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "some expression at end of sentences": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "some fluency was choppy in the middle of the reading": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "some insertions omissions and substitutions interfere with meaning (it was the lower left corner blending in the blossoms)": [
+    "NEGATIVE",
+    "OMISSION_INSERTION",
+    "MONITORING_FOR_MEANING"
+  ],
+  "some long phrasing": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some miscues self-corrected": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "some miscues which affect meaning": [
+    "NEGATIVE",
+    "ACCURACY",
+    "MONITORING_FOR_MEANING"
+  ],
+  "some self-correcting but not always aware of miscues": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "some self-correction": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "some self-correction but reads through several unfamiliar words without stopping to examine and correct": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "some short phrasing": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some sight word knowledge": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "some substitutions and miscues interfere with meaning": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "some substitutions change meaning (one of the seventh day teacher's name is)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "some uneven phrasing": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some uneven phrasing reading when reading a complex sentence containing a series of nouns": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some uneven phrasing with difficult vocabulary and syntax": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "some vowel confusion with short long vowel sounds": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "some word substitution (there when)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "some word substitutions": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "some word substitutions that interfere with meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "sometimes speed affects enunciation": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "sometimes unstressed syllables in multisyllabic words are slurred (saturday anxiously several)": [
+    "NEGATIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "somewhat disfluent": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "somewhat flat intonation and lack of expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "somewhat monotone": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "speeds up reading rate in the middle of passage": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "started slowly improved as he went on": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "starts out and finishes strong reading with good phrasing and expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "starts out reading word-by-word then reads in short and long phrases": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "starts out strong with good phrasing and expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "starts out strong with opening sentence then reads without building meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "starts reading stronger then slows due to miscuing": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "starts strong and then fades at end": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "still appears to be at a short vowel sound level (cvc words)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "stops to decode correct complex content words": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "strong reader with good phrasing and expression": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "strong start to the passage but loses stamina": [
+    "NEGATIVE",
+    "FLUENCY"
+  ],
+  "struggled with syntax in last sentence": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "struggles with some vowel patterns": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "struggles with some vowel patterns (ex: through sparkling)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "student adding -s to word that isn't plural 'lead'": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "student cannot decode enough words to comprehend passage": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "student decoding vocabulary words like 'trapeze'": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "student fakes several sentences and skips to end": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "student inconsistently pausing for commas": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student inconsistently pausing for punctuation": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student inserting words 'in'": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "student inserting words 'the'": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "student not pausing appropriately for punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "student not pausing between sentences": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student not pausing long enough in between sentences": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student omitting words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "student omitting words 'the'": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "student pausing in between sentences inconsistently": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student pausing in between words": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student pausing inconsistently for punctuation": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student pausing mid-sentence which is disrupting fluency": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student pausing to correctly sound out new words 'preservation'": [
+    "NEGATIVE",
+    "PRONUNCIATION"
+  ],
+  "student pausing to decode new words": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student pausing to decode words correctly 'were'": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student placing emphasis on certain words and phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student punctuation at the end of a sentence": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "student reading quickly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "student reading very quickly": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "student reading without expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "student reads beginnings but is not reading through entire words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "student reads many sight words and high frequency words with accuracy": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "student removing ending of words '-ed'": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "student repeating certain phrases as if distracted 'all the same'": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student repeating certain words and phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student repeating certain words at the end of a sentence": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "student repeating words and phrases": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "student repeating words when first forgetting to include ending": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "student self-correcting as they read": [
+    "NEGATIVE",
+    "SELF_CORRECTION"
+  ],
+  "student self-monitoring substitutions 'new'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student struggles with vowel patterns and some r-controlled vowels": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "student struggling to decode new words 'coals'": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "student substituting 'fleas' and 'flies'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student substituting words 'best'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student substituting words 'form' and 'from'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student substituting words 'various'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student substituting words like 'the' and 'a'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student substituting words that sound the same 'for' and 'four'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "student using expression to read animal noises": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "student using expression to read dialogue": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "stumbled on syntax in final sentence": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "substitutes 'have' for 'wave' (meaning changing)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "substitutes and omits words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutes miss for mrs": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "substitutes some short words (in on that those)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutes words": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substituting beginning sounds 'magnifying'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substituting words 'on' and 'in'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substituting words 'paths' and 'plans'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substituting words 'that' and 'the'": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitution of sight high-frequency words (he here)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutions omissions": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutions sometimes interfere with meaning (the she)": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "substitutions with no self-correction": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "successfully reads past tense verbs (-ed endings)": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "text hard for student focused primarily on decoding": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "towards end of passage struggles with meaningful phrasing": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "trouble with long vowel sounds (cement plywood recreation)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "unable to build any meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "unable to construct any meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "unclear if meaning is being monitored": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "uneven reading rate": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "uneven reading rate phrasing": [
+    "NEGATIVE",
+    "RATE"
+  ],
+  "uses initial letters to guess at unknown words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "uses meaning to get to new words (coals claws)": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "uses some expression in phrases": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "using meaning as a cue but not strongly attending to visual cues": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "voice does not reflect punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "word omissions interfere with meaning": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "word substitutions and omissions": [
+    "NEGATIVE",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "word-by-word decoding": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "word-by-word decoding very choppy fluency": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "word-by-word fluency": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "word-by-word reading": [
+    "NEGATIVE",
+    "WORD_BY_WORD"
+  ],
+  "works hard on decoding": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "generally good phrasing but in the last part of the text phrasing is uneven as reader seems to lose stamina and miscues": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "guesses at unknown words and does not monitor for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "guesses at words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "guesses at words based on initial letters": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "guessing at words based on initial letters of words": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "has difficulty phrasing long more complex sentences": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "has difficulty reading punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "has many basic sight words content words (weather california) and patterns": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "has many beginning and ending sounds": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "has some blending skills but needs more phonics": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "has some high frequency sight words": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "has some sight words": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "high miscuing reads known words guesses at words based on initial letters": [
+    "NEGATIVE",
+    "ACCURACY"
+  ],
+  "inconsistent use of punctuation": [
+    "NEGATIVE",
+    "PUNCTUATION"
+  ],
+  "initially good phrasing with expression then becomes uneven as reader encounters challenging vocabulary and longer sentences": [
+    "NEGATIVE",
+    "PHRASING"
+  ],
+  "insertions and substitutions of words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION",
+    "SUBSTITUTION_REVERSAL"
+  ],
+  "insertions of minor words": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "inserts some short high frequency words that don't interfere with meaning (into a pot)": [
+    "NEGATIVE",
+    "OMISSION_INSERTION"
+  ],
+  "intonation indicates not observing all punctuation": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "is developing intonation": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "knows a few high frequency words (of the)": [
+    "NEGATIVE",
+    "SIGHT_WORDS"
+  ],
+  "lacks decoding skills and medial vowel sounds silent e": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "lacks expression choppy": [
+    "NEGATIVE",
+    "FLUENCY",
+    "EXPRESSION"
+  ],
+  "lacks expression somewhat monotone": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "lacks familiarity with irregular past tense verbs (caught)": [
+    "NEGATIVE",
+    "PHONICS"
+  ],
+  "leaves off -er ending on angler": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "leaves out many words making it difficult to build meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "left off the -y in photography": [
+    "NEGATIVE",
+    "WORD_ENDINGS"
+  ],
+  "limited expression": [
+    "NEGATIVE",
+    "EXPRESSION"
+  ],
+  "limited subject matter vocabulary": [
+    "NEGATIVE",
+    "VOCABULARY"
+  ],
+  "limited word attack skills": [
+    "NEGATIVE",
+    "WORD_ATTACK"
+  ],
+  "able to decode two-syllable words": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "able to take apart compound words (something slackline)": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "able to take apart multisyllabic words in text": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "able to take apart multisyllabic words on the fly": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "accurate decoding": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "accurate reader": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "accurately decodes high-frequency words and a wide variety of sophisticated content-specific words": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "adequate but not inspired expression": [
+    "NEUTRAL",
+    "EXPRESSION"
+  ],
+  "adequate pace": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "adequate pace and volume": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "adequate pacing that reflects attention to meaning": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "appears to monitor for meaning": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "appears to read through text without monitoring for meaning": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "appropriate phrasing": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "attends to initial consonant sounds": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "attends to initial sound": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "attends to most punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "attends to most punctuation consistently": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "attends to phrasing and punctuation": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "attends to punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "attends to punctuation and its meaning": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "attends to punctuation consistently": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "cross-checks meaning and syntax": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "cross-checks meaning syntax and visual information": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "decent fluency": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "demonstrates ability to take apart words on the fly": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "demonstrates an awareness of sentences": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "demonstrates awareness of sentences and some intonation": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "demonstrates knowledge of possessives and contractions": [
+    "POSITIVE",
+    "MORPHOLOGY"
+  ],
+  "enunciates well": [
+    "POSITIVE",
+    "PRONUNCIATION"
+  ],
+  "errors probably affect comprehension": [
+    "NEGATIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "evidence of cross-checking meaning and visual information (started flattered)": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "evidence of decoding skills (clifton trapeze)": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "evidence of past tense verb knowledge": [
+    "POSITIVE",
+    "WORD_ENDINGS"
+  ],
+  "evidence of self-correcting and multisyllabic word attack skills": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "evidence of some decent multisyllabic word attack skills": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "evidence of some solid decoding but struggled with more challenging vocabulary words": [
+    "POSITIVE",
+    "PHONICS",
+    "VOCABULARY"
+  ],
+  "evidence of some word attack skills being used to solve multisyllabic words": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "evidence of some word attack skills for multisyllabic words": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "evidence of strong decoding skills": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "evidence of taking apart multisyllabic words (hydroponic submerged)": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "evidence of taking apart multisyllabic words (hydroponic)": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "evidence of taking apart multisyllabic words (semaphores)": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "evidence of taking apart two-syllable and compound words": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "evidence of taking apart two-syllable words": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "excellent fluency and decoding": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "fairly strong decoding of the passage": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "familiar with basic sight words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "familiar with many high frequency words and sight words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "familiar with many sight words and high-frequency words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "familiar with sigh words and many high frequency words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "familiar with some basic sight words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "familiar with some beginning and ending sounds some sight words and high frequency words": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "few miscues": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "few miscues that do not affect meaning": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "few miscues that maintained meaning": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "fluency could be increased but was not choppy": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "generally accurate reader": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "generally good word attack skills": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "generally monitors for meaning": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "generally observes punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "generally observes punctuation though one instance of attaching a prepositional phrase from the preceding sentence to the next sentence (in the old days she needs to interview)": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "good command of sight words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "good command of sight words and past tense verbs (-ed endings)": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "good control of r-controlled vowels": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "good decoding": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "good decoding skills": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "good expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "good expression - reflects meaning": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "good expression in dialogue": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "good generally accurate reader": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "good intonation expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "good knowledge of vocabulary": [
+    "POSITIVE",
+    "VOCABULARY"
+  ],
+  "good pace": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "good phrasing and expression until final sentence": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "good phrasing rate and expression": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "good rate and volume": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "good reading rate": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "good self-correction of miscues in multisyllabic words": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "good self-monitoring": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "good self-monitoring skills": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "good sight vocabulary and word analysis": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "good strategies for taking apart multisyllabic words": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "good vocabulary knowledge": [
+    "POSITIVE",
+    "VOCABULARY"
+  ],
+  "good word attack on multisyllabic words": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "monitors and rereads to self-correct": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "monitors for meaning": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "monitors meaning": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "more fluent when rereading a phrase": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "most decoding correct": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "observes all punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "observes most punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "observes most punctuation but does not always use sentence final intonation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "observes punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "often reads with intonation and expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "one error but was quickly self-corrected": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "pausing for punctuation": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "reading fluently": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "reads accurately with generally good phrasing and expression": [
+    "POSITIVE",
+    "ACCURACY",
+    "PHRASING",
+    "EXPRESSION"
+  ],
+  "reads at a good rate primarily in long phrases with expression": [
+    "POSITIVE",
+    "EXPRESSION",
+    "PHRASING",
+    "RATE"
+  ],
+  "reads at an adequate rate with good intonation": [
+    "POSITIVE",
+    "EXPRESSION",
+    "RATE"
+  ],
+  "reads in long phrases with good expression": [
+    "POSITIVE",
+    "PHRASING",
+    "EXPRESSION"
+  ],
+  "reads in short and long phrases with good expression": [
+    "POSITIVE",
+    "PHRASING",
+    "EXPRESSION"
+  ],
+  "reads most punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ],
+  "reads most sight words and high-frequency words with accuracy": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "reads most words accurately": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "reads most words accurately misses several challenging words": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "reads with confidence and expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "reads with expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "reads with good expression and intonation": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "reads with good expression in long phrases": [
+    "POSITIVE",
+    "EXPRESSION",
+    "PHRASING"
+  ],
+  "recognizes most sight words and high-frequency words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "recognizes sight words and many content words accurately and rapidly": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "recognizes sight words and most high frequency words": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "rereads and self-corrects most miscues": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "rereads and self-corrects to maintain meaning": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "rereads to self-correct": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "rereads to self-correct visual errors": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects all miscues": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects miscues": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects miscues well": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects most errors that impact meaning": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects most miscues": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects most miscues by rereading": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects most significant errors accurately": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects to maintain meaning": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-corrects when miscues impact meaning": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-monitors and corrects most errors": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "self-monitors and self-corrects most miscues": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "solid sight word knowledge": [
+    "POSITIVE",
+    "SIGHT_WORDS"
+  ],
+  "solid vocabulary": [
+    "POSITIVE",
+    "VOCABULARY"
+  ],
+  "solves words quickly and accurately": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "strong expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "strong intonation indicates that comprehension of meaning is very likely": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "strong phonics knowledge": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "strong vocabulary": [
+    "POSITIVE",
+    "VOCABULARY"
+  ],
+  "student changing pitch when reading questions": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "student changing pitch when reading sentences ending in a question mark": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "student corrected substitution of word 'it' and 'that'": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "student corrected substitution of word 'reasons'": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "student correcting insertions 'the'": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "student pacing is appropriate": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "student pausing appropriately for punctuation": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "student pausing for dialogue": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "student pausing for new sentences": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "student pausing for punctuation": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "student pausing to correct pronunciation": [
+    "POSITIVE",
+    "PRONUNCIATION"
+  ],
+  "student pausing when listing words": [
+    "POSITIVE",
+    "PHRASING"
+  ],
+  "student pronouncing domain-specific vocabulary words correctly 'journalists'": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "student reading fluently": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "student reading slowly and carefully": [
+    "POSITIVE",
+    "RATE"
+  ],
+  "student reading with expression": [
+    "POSITIVE",
+    "EXPRESSION"
+  ],
+  "student self-corrects most mistakes that affect meaning": [
+    "POSITIVE",
+    "SELF_CORRECTION"
+  ],
+  "student usually reads accurately with adequate speed and expression": [
+    "POSITIVE",
+    "ACCURACY",
+    "EXPRESSION"
+  ],
+  "student usually reads accurately with adequate speed intonation and expression": [
+    "POSITIVE",
+    "ACCURACY",
+    "EXPRESSION",
+    "RATE"
+  ],
+  "student usually reads with adequate speed intonation and expression": [
+    "POSITIVE",
+    "EXPRESSION",
+    "RATE"
+  ],
+  "student usually reads with appropriate speed accuracy and expression": [
+    "POSITIVE",
+    "ACCURACY",
+    "RATE"
+  ],
+  "takes apart multisyllabic words": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "takes apart two-syllable words and compound words": [
+    "POSITIVE",
+    "MULTISYLLABIC_WORDS"
+  ],
+  "text appears to be easily decodable for this student": [
+    "POSITIVE",
+    "PHONICS"
+  ],
+  "uses background knowledge to maintain meaning": [
+    "POSITIVE",
+    "MONITORING_FOR_MEANING"
+  ],
+  "uses basic fluency phrasing to connect words": [
+    "POSITIVE",
+    "FLUENCY"
+  ],
+  "uses breaking strategies to attack words": [
+    "POSITIVE",
+    "WORD_ATTACK"
+  ],
+  "very few miscues": [
+    "POSITIVE",
+    "ACCURACY"
+  ],
+  "carefully attends to punctuation": [
+    "POSITIVE",
+    "PUNCTUATION"
+  ]
+}
