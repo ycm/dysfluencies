@@ -17,5 +17,51 @@ def get_powerset(it):
 def filter_for_length(coll, length=4):
   return [list(x) for x in list(coll) if len(x) >= length]
 
+def load_categories():
+  obs_cats = ['ACCURACY',
+    'EXPRESSION',
+    'FLUENCY',
+    'MONITORING_FOR_MEANING',
+    'MORPHOLOGY',
+    'MULTISYLLABIC_WORDS',
+    'OMISSION_INSERTION',
+    'PHONICS',
+    'PHRASING',
+    'PRONUNCIATION',
+    'PUNCTUATION',
+    'RATE',
+    'SELF_CORRECTION',
+    'SIGHT_WORD',
+    'SUBSTITUTION_REVERSAL',
+    'VOCABULARY',
+    'WORD_ATTACK',
+    'WORD_BY_WORD',
+    'WORD_ENDINGS'
+  ]
+  sug_cats = [
+    'ARTICULATION',
+    'DIFFICULTY',
+    'EXPRESSION',
+    'FLUENCY',
+    'MEANING_COMPRENHENSION',
+    'MORPHOLOGY',
+    'MULTISYLLABIC_WORDS',
+    'OMISSIONS_INSERTIONS',
+    'PHONICS',
+    'PHRASING',
+    'PRONUNCIATION',
+    'PUNCTUATION',
+    'RATE',
+    'SELF_CORRECTION',
+    'SELF_MONITOR',
+    'SIGHT_WORD',
+    'SUBSTITUTIONS_REVERSALS',
+    'VOCABULARY',
+    'VOICE',
+    'WORD_ATTACK',
+    'WORD_ENDINGS'
+  ]
+  return obs_cats, sug_cats
+
 if __name__ == "__main__":
   print('utility functions.')
